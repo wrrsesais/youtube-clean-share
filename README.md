@@ -47,10 +47,6 @@ node --test tests/userscript.test.cjs
 
 The portable tests cover URL handling, HTML embed text, social share destinations, ten languages and locale fallbacks. Browser-fixture coverage was also run during release preparation; it is separate from these portable tests.
 
-## Acknowledgements
-
-Maintained by wrrsesais, with development, testing, and documentation assistance from OpenAI Codex.
-
 ## License
 
 [MIT](LICENSE), copyright 2026 wrrsesais.

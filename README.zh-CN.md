@@ -38,10 +38,6 @@ Node.js 20 或更新版本，无须安装依赖：node --test tests/userscript.t
 
 便携测试覆盖链接、嵌入代码文本、社交目标、十种语言及语言回退。发布准备期间另外执行了浏览器模拟测试，两者范围不同。
 
-## 致谢
-
-由 wrrsesais 维护，使用 OpenAI Codex 辅助开发、测试和文档编写。
-
 ## 许可
 
 [MIT](LICENSE)，copyright 2026 wrrsesais。
